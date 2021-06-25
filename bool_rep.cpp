@@ -17,3 +17,4 @@ int main(){
 	boole(n);
 }
 //xan be done in recursive way too in rec_bool_rep.cpp
+ 
